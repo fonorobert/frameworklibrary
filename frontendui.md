@@ -7,3 +7,5 @@ This is a collection of UI elements, frameworks and small UI modules that make b
 - [slideout.js](http://mango.github.io/slideout/)
 - [Pure css](http://purecss.io/)
 - [moment.js](http://momentjs.com/)
+
+[Back](README.md)
