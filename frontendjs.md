@@ -7,5 +7,6 @@ These tools are meant to power front-end interactivity, business logic and every
 - [list.js](http://listjs.com)
 - [riot.js](https://muut.com/riotjs/)
 - [microjs.com - collection of tiny JS libraries](http://microjs.com/)
+- [Javascript WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 
 [Back](README.md)
