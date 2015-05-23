@@ -8,5 +8,6 @@ These tools are meant to power front-end interactivity, business logic and every
 - [riot.js](https://muut.com/riotjs/)
 - [microjs.com - collection of tiny JS libraries](http://microjs.com/)
 - [Javascript WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
+- [justice.js - in-page performance metrics](http://okor.github.io/justice/)
 
 [Back](README.md)
